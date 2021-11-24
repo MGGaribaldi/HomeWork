@@ -14,7 +14,7 @@ class Lesson6 {
         for (Animal animal : animals) {
             System.out.println(animal);
         }
-   }
+    }
 }
 
 abstract class Animal {
